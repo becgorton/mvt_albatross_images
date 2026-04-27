@@ -44,6 +44,9 @@ For information about this work, please contact:
   *Chief Research Scientist, CSIRO*  
   Email: [alistair.hobday@csiro.au](mailto:alistair.hobday@csiro.au)
 
+- **Carlie Devine**  
+  *Senior Research Technician, CSIRO*  
+  Email: [carlie.devine@csiro.au](mailto:carlie.devine@csiro.au)
 ---
 
 ## Acknowledgments
